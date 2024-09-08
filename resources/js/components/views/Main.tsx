@@ -12,7 +12,7 @@ const Main = () => {
               Hi INSPECT
             </div>
             <div className="text-sm tracking-wider leading-5 text-gray-300/50 font-lighter">
-              Welcome back to the workspace. We miss you! ❤️
+              Welcome back to the workspace
             </div>
           </div>
           <TaskForm />
