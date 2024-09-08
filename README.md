@@ -1,3 +1,11 @@
+<h1>GUIDE Setting</h1>
+<p>1. Turn on Xampp and Create database with name same database_name in file .env</p> <br/>
+<p>2. Run terminal configuration: php artisan migrate </p><br/>
+<p>3. Run terminal configuration: npm install</p><br/>
+<p>4. Run terminal: npm run dev</p><br/>
+<p>5. Run new terminal: php artisan serve </p><br/>
+<p>6. Run project with local: http://localhost:8000/ </p><br/>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
